@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.4">
+        <ModelTarget name="tyre" targetId="06c55bd672d244e8aef5f79f932bbee9" version="14.0" toolVersion="v7.0.4" bbox="-2.682900 -0.001078 9.748852 -0.389664 2.292158 10.777395" trackingMode="car" upVector="1.0 0.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="tyre" assemblyId="1b818934e6c34ef287e9797e1487749d">
+        <Part name="tyre" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.4">
+        <ModelTarget name="circle3d" targetId="ba82cd90ef2b4195851aa438154fcbfb" version="14.0" toolVersion="v7.0.4" bbox="-0.705847 -0.017483 -0.705848 0.705848 0.017654 0.705847" trackingMode="car" upVector="1.0 0.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="circle3d" assemblyId="c3993ec5fc31478996100fcb1c06b233">
+        <Part name="circle3d" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.5">
+        <ModelTarget name="SUV" targetId="f387bfd3f40e42a19f6b7e9c9cce0f6a" version="14.0" toolVersion="v7.0.5" bbox="-3.012033 -0.002174 -6.894544 -0.561119 2.081060 -0.948054" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="SUV" assemblyId="5beab64ba22e49be807a7de333403373">
+        <Part name="SUV" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

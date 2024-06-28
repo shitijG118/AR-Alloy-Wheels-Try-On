@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Circle" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="Circles_assembly" assemblyId="36ec3250392449cba3cdd513e368cd6f">
+<Part name="Circle" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0 0.16 4.895" rotation="AD: -0.894427 0.894427 0.894427 240" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-1 0.16 4.895" rotation="AD: -0.894427 0.894427 0.894427 240" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
